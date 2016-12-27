@@ -1,1 +1,0 @@
-# SVM-Gaussian-Classification-FPGA
